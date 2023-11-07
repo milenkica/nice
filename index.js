@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed');
+});
 
-    // Add your JavaScript code here
+document.getElementById('indexButton').addEventListener('click', function() {
+    alert('Button clicked!');
 });
