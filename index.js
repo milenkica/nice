@@ -3,5 +3,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 
 document.getElementById('indexButton').addEventListener('click', function() {
-    alert('Button clicked!');
+    alert('Kill yourself!');
 });
